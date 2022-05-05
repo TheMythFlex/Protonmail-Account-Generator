@@ -19,7 +19,7 @@
     - Temp email 
     - Sms with 5sim
     - Captcha with anycaptcha
-*  Requiers Proxies
+*  Requires Proxies
 
 <h4>Program licence key:<h4>
 
