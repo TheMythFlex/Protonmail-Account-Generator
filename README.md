@@ -21,7 +21,7 @@
     - Captcha with anycaptcha
 *  Requires Proxies
 
-<h4>Program licence key:<h4>
+<h4>Program license key:<h4>
 
 *  $8 week key.
 *  $18 month key.
